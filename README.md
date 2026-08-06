@@ -12,5 +12,5 @@ Total: **31** images.
 | ![firstlight](firstlight.png) | ![g](g.jpg) | ![girl](girl.png) | ![hightmoon](hightmoon.jpg) |
 | ![home127-dark](home127-dark.jpg) | ![home127-light](home127-light.jpg) | ![kita](kita.png) | ![licensed-image](licensed-image.jpeg) |
 | ![mountain](mountain.jpg) | ![shin1](shin1.png) | ![shin2](shin2.png) | ![shin3](shin3.png) |
-| ![ss](ss.png) | ![superman](superman.png) | ![tree](tree.jpg) | ![vangoth](vangoth.png) |
+| ![sss](sss.png) | ![superman](superman.png) | ![tree](tree.jpg) | ![vangoth](vangoth.png) |
 | ![violet](violet.jpg) | ![wall_1](wall_1.jpg) | ![water](water.jpeg) |  |
