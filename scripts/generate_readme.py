@@ -38,21 +38,24 @@ def find_images(root: Path) -> list[Path]:
     return sorted(found)
 
 
+GRID_COLS = 4
+
+
 def build_readme(images: list[Path]) -> str:
     lines = [
         "# Wallpapers",
-        "",
-        "Auto-generated gallery — every push to `main` regenerates this README via",
-        "GitHub Actions (`scripts/generate_readme.py`), so new images show up automatically.",
         "",
         f"Total: **{len(images)}** images.",
         "",
         "## Gallery",
         "",
+        "|" + "|".join([""] * GRID_COLS) + "|",
+        "|" + "|".join(["---"] * GRID_COLS) + "|",
     ]
-    for img in images:
-        rel = img.relative_to(ROOT).as_posix()
-        lines.append(f"| ![{img.stem}]({esc(rel)}) | `{rel}` |")
+    for i in range(0, len(images), GRID_COLS):
+        cells = [f"![{img.stem}]({esc(img.relative_to(ROOT).as_posix())})" for img in images[i : i + GRID_COLS]]
+        cells += [""] * (GRID_COLS - len(cells))
+        lines.append("| " + " | ".join(cells) + " |")
     return "\n".join(lines) + "\n"
 
 
