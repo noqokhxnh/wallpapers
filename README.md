@@ -3,7 +3,7 @@
 Auto-generated gallery — every push to `main` regenerates this README via
 GitHub Actions (`scripts/generate_readme.py`), so new images show up automatically.
 
-Total: **33** images.
+Total: **31** images.
 
 ## Gallery
 
@@ -15,7 +15,6 @@ Total: **33** images.
 | ![ambxst-10](ambxst-10.png) | `ambxst-10.png` |
 | ![arch](arch.jpg) | `arch.jpg` |
 | ![big_sur](big_sur.jpg) | `big_sur.jpg` |
-| ![black-and-white-anime-bartender-girl](black-and-white-anime-bartender-girl.png) | `black-and-white-anime-bartender-girl.png` |
 | ![capy](capy.png) | `capy.png` |
 | ![cat-avatar](cat-avatar.jpg) | `cat-avatar.jpg` |
 | ![cat](cat.jpg) | `cat.jpg` |
@@ -26,7 +25,6 @@ Total: **33** images.
 | ![hightmoon](hightmoon.jpg) | `hightmoon.jpg` |
 | ![home127-dark](home127-dark.jpg) | `home127-dark.jpg` |
 | ![home127-light](home127-light.jpg) | `home127-light.jpg` |
-| ![jump](jump.jpg) | `jump.jpg` |
 | ![kita](kita.png) | `kita.png` |
 | ![licensed-image](licensed-image.jpeg) | `licensed-image.jpeg` |
 | ![mountain](mountain.jpg) | `mountain.jpg` |
