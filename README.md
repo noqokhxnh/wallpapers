@@ -1,15 +1,13 @@
 # Wallpapers
 
-Total: **31** images.
+Total: **23** images.
 
 ## Gallery
 
 |||||
 |---|---|---|---|
-| ![0385](0385.jpg) | ![1771852579718f](1771852579718f.png) | ![ambxst-01](ambxst-01.png) | ![ambxst-08](ambxst-08.png) |
-| ![ambxst-09](ambxst-09.png) | ![ambxst-10](ambxst-10.png) | ![arch](arch.jpg) | ![big_sur](big_sur.jpg) |
-| ![capy](capy.png) | ![cat-avatar](cat-avatar.jpg) | ![cat](cat.jpg) | ![colors](colors.jpg) |
-| ![firstlight](firstlight.png) | ![g](g.jpg) | ![girl](girl.png) | ![hightmoon](hightmoon.jpg) |
+| ![0385](0385.jpg) | ![1771852579718f](1771852579718f.png) | ![big_sur](big_sur.jpg) | ![capy](capy.png) |
+| ![colors](colors.jpg) | ![firstlight](firstlight.png) | ![gg](gg.png) | ![girl](girl.png) |
 | ![home127-dark](home127-dark.jpg) | ![home127-light](home127-light.jpg) | ![kita](kita.png) | ![licensed-image](licensed-image.jpeg) |
 | ![mountain](mountain.jpg) | ![shin1](shin1.png) | ![shin2](shin2.png) | ![shin3](shin3.png) |
 | ![sss](sss.png) | ![superman](superman.png) | ![tree](tree.jpg) | ![vangoth](vangoth.png) |
